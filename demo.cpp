@@ -1,9 +1,13 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+void bubblesort() {
+	cout<<"Bubble sort"<<endl;
+}
+
 int main() {
 	
-		int t;
+	int t;
 	cin>>t;
 	
 	while(t--) {

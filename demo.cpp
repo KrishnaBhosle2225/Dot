@@ -1,10 +1,19 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+<<<<<<< HEAD
 void bubblesort() {
 	cout<<"Bubble sort"<<endl;
 }
 
+=======
+
+void quicksort() {
+
+	cout<<"Quicksort is added"<<endl;
+}
+ 
+>>>>>>> quicksort
 int main() {
 	
 	int t;
